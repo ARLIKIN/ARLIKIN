@@ -24,7 +24,3 @@ If you have some, here is my contacts:<br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![Georgii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARLIKIN&show_icons=true&theme=transparent)
-
-![image](https://github.com/user-attachments/assets/b04a7dae-ac61-4656-aafb-2b0da09ab7b6)
-
